@@ -3,6 +3,7 @@
     "description": "Right way to use hprose for with Laravel Lumen Framework build a powerful Api services.",
     "keywords": ["hprose", "framework", "laravel", "lumen"],
     "license": "MIT",
+    "version": "1.0.0",
     "type": "project",
     "authors": [
         {
