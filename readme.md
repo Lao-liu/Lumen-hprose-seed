@@ -20,7 +20,8 @@ cd Api && composer install
 
 ```php
 # copy a config file
-cp vendor/lao-liu/laravel-hprose/config/hprose.php app/Config/hprose.php
+mkdir config
+cp vendor/lao-liu/laravel-hprose/config/hprose.php config/hprose.php
 
 # copy .env file
 cp .env.example .env
